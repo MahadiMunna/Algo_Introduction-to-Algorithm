@@ -1,0 +1,13 @@
+Algorithm is basically set of instructions.
+
+Asymptotic Notations, Time complexities
+
+O(1) -> constant        f(n)=7
+O(log n) -> Logarithms  f(n)=5logn+7
+O(rootover n) -> Square root 
+O(n) -> Linear f(n)=2n+7
+O(nlog n) -> nlogn
+O(n^2) -> Quadratic
+O(n^3) -> Cubic
+O(2^n) -> Exponential
+
